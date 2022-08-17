@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RS_BridgeTesting/1.0.0": {
+        "dependencies": {
+          "RS_HelperLibrary": "1.0.0.0"
+        },
+        "runtime": {
+          "RS_BridgeTesting.dll": {}
+        }
+      },
+      "RS_HelperLibrary/1.0.0.0": {
+        "runtime": {
+          "RS_HelperLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RS_BridgeTesting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RS_HelperLibrary/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

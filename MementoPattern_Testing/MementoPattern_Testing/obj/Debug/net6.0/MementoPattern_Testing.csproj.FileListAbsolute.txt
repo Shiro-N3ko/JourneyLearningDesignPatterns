@@ -1,0 +1,15 @@
+F:\Personal_Coding\C#\MementoPattern_Testing\MementoPattern_Testing\obj\Debug\net6.0\MementoPattern_Testing.csproj.AssemblyReference.cache
+F:\Personal_Coding\C#\MementoPattern_Testing\MementoPattern_Testing\obj\Debug\net6.0\MementoPattern_Testing.GeneratedMSBuildEditorConfig.editorconfig
+F:\Personal_Coding\C#\MementoPattern_Testing\MementoPattern_Testing\obj\Debug\net6.0\MementoPattern_Testing.AssemblyInfoInputs.cache
+F:\Personal_Coding\C#\MementoPattern_Testing\MementoPattern_Testing\obj\Debug\net6.0\MementoPattern_Testing.AssemblyInfo.cs
+F:\Personal_Coding\C#\MementoPattern_Testing\MementoPattern_Testing\obj\Debug\net6.0\MementoPattern_Testing.csproj.CoreCompileInputs.cache
+F:\Personal_Coding\C#\MementoPattern_Testing\MementoPattern_Testing\bin\Debug\net6.0\MementoPattern_Testing.exe
+F:\Personal_Coding\C#\MementoPattern_Testing\MementoPattern_Testing\bin\Debug\net6.0\MementoPattern_Testing.deps.json
+F:\Personal_Coding\C#\MementoPattern_Testing\MementoPattern_Testing\bin\Debug\net6.0\MementoPattern_Testing.runtimeconfig.json
+F:\Personal_Coding\C#\MementoPattern_Testing\MementoPattern_Testing\bin\Debug\net6.0\MementoPattern_Testing.dll
+F:\Personal_Coding\C#\MementoPattern_Testing\MementoPattern_Testing\bin\Debug\net6.0\MementoPattern_Testing.pdb
+F:\Personal_Coding\C#\MementoPattern_Testing\MementoPattern_Testing\obj\Debug\net6.0\MementoPattern_Testing.dll
+F:\Personal_Coding\C#\MementoPattern_Testing\MementoPattern_Testing\obj\Debug\net6.0\refint\MementoPattern_Testing.dll
+F:\Personal_Coding\C#\MementoPattern_Testing\MementoPattern_Testing\obj\Debug\net6.0\MementoPattern_Testing.pdb
+F:\Personal_Coding\C#\MementoPattern_Testing\MementoPattern_Testing\obj\Debug\net6.0\MementoPattern_Testing.genruntimeconfig.cache
+F:\Personal_Coding\C#\MementoPattern_Testing\MementoPattern_Testing\obj\Debug\net6.0\ref\MementoPattern_Testing.dll
